@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6647C67748EFC882CB1F245D9B8ABF39B63B8E2D" : 0,
+    "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A555C253-A2D4-4586-A0B3-1F9FD2BAD210",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6647C67748EFC882CB1F245D9B8ABF39B63B8E2D" : "",
+    "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2" : "caffe\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Caffe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Caffe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:aleph7\/caffe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CD8186CE66A0AD46BD21DF2E9F43E65780546D2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/noradaiko\/caffe-ios-sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6647C67748EFC882CB1F245D9B8ABF39B63B8E2D"
+    }
+  ]
+}
